@@ -11,5 +11,13 @@ The final release of Incoming Call Plus will be completely customizable and load
 
 Some basic information about Incoming Call Plus:
   * Currently compatible with Android OS 2.0+. Support for earlier versions will come later.
-  * 
-  * Automatic links to other wiki pages
+  * Every version is tested on a Samsung Captivate with 2.1 and a G1 with 2.2. 
+  * Devices that are known to be compatible are:
+    * HTC Dream/G1
+    * Samsung Galaxy S (Confirmed with Captivate 2.2 and Vibrant 2.1)
+    * Motorola Cliq
+    * Motorola Droid
+    * HTC Evo
+  
+  Please note that these is not a complete list of compatible devices. This list simply consists of devices that have been specifically confirmed by me or others. Incoming Call Plus is expected to work on all 2.0+ devices (although med and low resolution screens are not _officially_ supported yet). If you can confirm a device that is not on the list or find that there are issues with one of the devices on the list, please notify me. Thanks.
+    
