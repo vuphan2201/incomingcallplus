@@ -1,0 +1,15 @@
+#summary Project information.
+
+= Introduction =
+
+Incoming Call Plus is a work-in-progress Android application which replaces the stock Android incoming call screen. Incoming Call Plus currently includes features like rejecting calls with a text message and customizing background color. 
+
+The final release of Incoming Call Plus will be completely customizable and loaded with advanced features. The public beta is currently available to download here, on the Android market, or on XDA Developers ([http://forum.xda-developers.com/showthread.php?t=803464]).
+
+
+= Details =
+
+Some basic information about Incoming Call Plus:
+  * Currently compatible with Android OS 2.0+. Support for earlier versions will come later.
+  * 
+  * Automatic links to other wiki pages
